@@ -271,7 +271,7 @@ docker run -d \
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd Prebuilt-Image
+cd <repository>
 
 # Build and test
 docker build -t ubuntu-offline:dev offline
